@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 This is just a sample Mockserver and you can change or customize it to fit your needs using the provided examples in the code.
 
 To start:
